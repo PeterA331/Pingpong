@@ -1,7 +1,7 @@
 # Pingpong
 Initialization:
 
-System clock and GPIOs are configured using STM32CubeMX.
+System clock and GPIOs are configured using STM32CubeMX, STM32 NUCLEO-L476RG, part of STMicroelectronics’ ARM Cortex-M4 microcontroller series.
 
 Timers are initialized to control the ball's automatic movement.
 
